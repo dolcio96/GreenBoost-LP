@@ -6,13 +6,25 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.12",
+    "@chakra-ui/react": "^2.4.1",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.15",
+    "@mui/styled-engine-sc": "^5.10.14",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.4",
+    "framer-motion": "^7.6.9",
     "next": "13.0.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.39.5",
+    "react-icons": "^4.6.0",
+    "react-select": "^5.6.1",
+    "styled-components": "^5.3.6"
   }
 }
